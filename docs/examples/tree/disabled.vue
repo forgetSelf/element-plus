@@ -4,6 +4,7 @@
     :data="data"
     :props="defaultProps"
     show-checkbox
+    check-strictly
   />
 </template>
 
